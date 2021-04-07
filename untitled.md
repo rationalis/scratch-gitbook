@@ -2,6 +2,7 @@
 
 * Emacs Lisp
 * Smalltalk
+  * Pharo
 * Haskell
   * Liquid Haskell
   * Dependent Haskell
