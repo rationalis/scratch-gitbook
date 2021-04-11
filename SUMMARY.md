@@ -6,4 +6,6 @@
 * [Programming Languages](untitled.md)
 * [Emacs](emacs.md)
 * [Interesting UIs](interesting-uis.md)
+* [Observability](observability.md)
+* [Misc](misc.md)
 
