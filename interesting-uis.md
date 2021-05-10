@@ -13,6 +13,9 @@ Shells
 * fish [https://fishshell.com/](https://fishshell.com/)
 * xonsh [https://xon.sh/](https://xon.sh/)
   * xontrib-kitty [https://github.com/scopatz/xontrib-kitty](https://github.com/scopatz/xontrib-kitty)
+* other shell utilities
+  * atuin, better history [https://github.com/ellie/atuin](https://github.com/ellie/atuin)
+  * 
 
 
 
